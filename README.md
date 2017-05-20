@@ -1,2 +1,6 @@
 # hello-world
-my first repository
+
+Hi folks!
+
+GeminiDubb here, Im just intrested in learning coding,
+Im completly new to it
